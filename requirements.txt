@@ -1,4 +1,4 @@
-streamlit
+python
 transformers
 torch
 sentencepiece
